@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">StudyCase</string>
+    <string name="button_abnormal">ABNORMAL</string>
+    <string name="button_eatbos">EATBOS</string>
+    <string name="activity2">secondactivity</string>
+    <string name="tempat_makan">Tempat Makan</string>
+    <string name="jenis_makanan">Jenis Makanan</string>
+    <string name="jumlah_porsi">Jumlah Porsi</string>
+    <string name="jumlah_harga">Jumlah Harga</string>
+    <string name="toast_abnormal">Disini aja makan malamnya</string>
+    <string name="toast_eatbos">Jangan malamnya disini uang kamu tidak cukup</string>
+    <string name="harga">0</string>
+    <string name="Abnormal">Abnormal</string>
+    <string name="button_Eatbos">Eatbos</string>
+    <string name="button_Abnormal">Abnormal</string>
+</resources>
